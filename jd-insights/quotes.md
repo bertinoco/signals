@@ -3,7 +3,7 @@
 
 # Quotes
 
-Every stored quote, verbatim from the posting. **96 of 97** entries carry one.
+Every stored quote, verbatim from the posting. **97 of 98** entries carry one.
 
 These are the lines that anchor each entry's cluster and signal assignments, so they are the strongest citable evidence in the dataset. Each is checked against its `jd-source` archive before commit.
 
@@ -276,6 +276,12 @@ These are the lines that anchor each entry's cluster and signal assignments, so 
 > Create AI content pipelines, including frameworks for governance, training data readiness, and human-in-the-loop review.
 
 `huge-director-ai-content-strategy` · added 2026-09-26
+
+### iCapital — UX Writer - Vice President
+
+> Drive content design leadership by shaping and evolving iCapital design system writing style guides, reusable patterns, and governance frameworks to ensure consistent, multi-language and multi-currency experiences across platforms.
+
+`icapital-ux-writer-vp` · added 2026-11-16
 
 ### Insurify — Editor, AI Content Systems
 

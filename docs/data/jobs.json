@@ -2,8 +2,8 @@
   "meta": {
     "title": "BCO Content Skills Tracker",
     "description": "A curated skills tracker for the content design community.",
-    "lastUpdated": "2026-11-12",
-    "totalEntries": 97
+    "lastUpdated": "2026-11-16",
+    "totalEntries": 98
   },
   "entries": [
     {
@@ -2860,6 +2860,37 @@
       "sourceUrl": null,
       "dateAdded": "2026-11-12",
       "quote": "Own the Polish experience end to end. Transcreate rather than translate, so the copy reads as natural, gender-neutral Polish in ZEN's friendly voice."
+    },
+    {
+      "id": "icapital-ux-writer-vp",
+      "company": "iCapital",
+      "title": "UX Writer - Vice President",
+      "domain": "Finance",
+      "engagement": "Not specified",
+      "location": "New York, NY",
+      "remote": "hybrid",
+      "coreFrame": "Creates clear, consistent, user-centered content that guides clients through complex application, subscription, and onboarding workflows across the iCapital platform. Shapes and evolves the design system's writing style guides, reusable patterns, and governance frameworks to support consistent, multi-language and multi-currency experiences across platforms. Guides content direction through design critiques, content reviews, and collaborative workshops, and ensures content aligns with accessibility standards, regulatory guidelines, and plain-language best practices. Operates as both a hands-on contributor and a strategic leader, and collaborates with UX, Product, Legal, and Compliance teams to translate requirements into content solutions. Also shapes how users interact with experiences, including AI-driven capabilities, by defining intuitive inputs and ensuring clear, consistent outputs.",
+      "clusters": [
+        "content-systems-design",
+        "enablement",
+        "terminology-governance"
+      ],
+      "signals": [
+        "governance-as-value-prop",
+        "central-standards-function",
+        "accessibility-as-constraint"
+      ],
+      "compRange": {
+        "min": 160000,
+        "max": 190000,
+        "currency": "USD",
+        "covers": "base",
+        "scope": null,
+        "extras": "equity + bonus"
+      },
+      "sourceUrl": null,
+      "dateAdded": "2026-11-16",
+      "quote": "Drive content design leadership by shaping and evolving iCapital design system writing style guides, reusable patterns, and governance frameworks to ensure consistent, multi-language and multi-currency experiences across platforms."
     }
   ],
   "clusters": {
