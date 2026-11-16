@@ -3,7 +3,7 @@
 
 # Quotes
 
-Every stored quote, verbatim from the posting. **98 of 99** entries carry one.
+Every stored quote, verbatim from the posting. **99 of 100** entries carry one.
 
 These are the lines that anchor each entry's cluster and signal assignments, so they are the strongest citable evidence in the dataset. Each is checked against its `jd-source` archive before commit.
 
@@ -276,6 +276,12 @@ These are the lines that anchor each entry's cluster and signal assignments, so 
 > Create AI content pipelines, including frameworks for governance, training data readiness, and human-in-the-loop review.
 
 `huge-director-ai-content-strategy` · added 2026-09-26
+
+### Ibotta — Senior Content Designer, Conversational AI
+
+> Build the content and AI experience layer of our design system: voice, patterns, error and empty states, and the language of system reasoning, structured so both designers and agents can consume it.
+
+`ibotta-senior-content-designer-conversational-ai` · added 2026-11-16
 
 ### iCapital — UX Writer - Vice President
 

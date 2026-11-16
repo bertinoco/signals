@@ -3,7 +3,7 @@
     "title": "BCO Content Skills Tracker",
     "description": "A curated skills tracker for the content design community.",
     "lastUpdated": "2026-11-16",
-    "totalEntries": 99
+    "totalEntries": 100
   },
   "entries": [
     {
@@ -2922,6 +2922,43 @@
       "sourceUrl": null,
       "dateAdded": "2026-11-16",
       "quote": "You'll ship focused, technically grounded pieces that help them answer developer questions and cite Render: use-case articles, stack-specific guides, comparisons, and docs."
+    },
+    {
+      "id": "ibotta-senior-content-designer-conversational-ai",
+      "company": "Ibotta",
+      "title": "Senior Content Designer, Conversational AI",
+      "domain": "AdTech",
+      "engagement": "Full time",
+      "location": "Denver, CO",
+      "remote": "hybrid",
+      "coreFrame": "Builds the content and AI experience layer of Ibotta's design system: voice, patterns, error and empty states, and the language of system reasoning, structured so both designers and agents can consume it. Turns content standards into tools and structures that designers and agents can use directly, and rebuilds the AI content tools product teams use so first-pass content holds up without a content designer reviewing every screen. Designs conversational and agentic experiences, including how a system explains what it is doing, what it is uncertain about, and what it needs from the user, and shapes how agents behave as well as what they say, including the instructions behind them and when an agent should check with the user or pass the work to a person. Decides with engineering when a scripted flow serves people better than a generated response and designs for both, and writes the language that carries trust in AI-generated output where a user is committing budget against a recommendation they cannot audit. Defines content standards and guidelines usable by people who are not content designers, sets up a repeatable way to review the quality of AI-generated responses, and works with engineering on the limits, tools, and data an agent can reach.",
+      "clusters": [
+        "content-systems-design",
+        "ai-tooling",
+        "ai-content-governance",
+        "enablement"
+      ],
+      "signals": [
+        "model-behavior-design",
+        "eval-infrastructure",
+        "human-in-the-loop",
+        "central-standards-function",
+        "ai-native-expectation",
+        "language-infrastructure",
+        "enabler-not-bottleneck",
+        "governance-as-value-prop"
+      ],
+      "compRange": {
+        "min": 131000,
+        "max": 153000,
+        "currency": "USD",
+        "covers": "base",
+        "scope": null,
+        "extras": "equity"
+      },
+      "sourceUrl": null,
+      "dateAdded": "2026-11-16",
+      "quote": "Build the content and AI experience layer of our design system: voice, patterns, error and empty states, and the language of system reasoning, structured so both designers and agents can consume it."
     }
   ],
   "clusters": {

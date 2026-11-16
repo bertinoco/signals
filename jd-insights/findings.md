@@ -608,6 +608,23 @@ is adopting a purchased tool rather than authoring rules. LLM-as-judge: zero —
 every "judge" string in the corpus is "judgment". The two artifacts
 practitioners name most specifically are the two no posting asks for.
 
+**Update, 2026-11-16: a posting states the split itself as a job
+responsibility.** Ibotta's Senior Content Designer, Conversational AI asks
+the holder to "Decide with engineering when a scripted flow serves people
+better than a generated response, and design for both" — naming the choice
+between a deterministic, scripted path and a generative, model-produced one
+as something the role itself designs for, in those terms, rather than this
+being read off separate responsibilities the way every other entry above is.
+A single instance, so it does not move the trigger above on its own: that
+trigger asks for an eval harness, model-graded rubrics, or authored lint
+rules named as a stated responsibility, and Ibotta's own closest line ("Set
+up a repeatable way to review the quality of AI-generated responses") is
+human review, not an authored harness. Recorded as a distinct kind of
+evidence for the same split — the dichotomy named directly rather than
+inferred from scattered responsibilities — and held here rather than
+promoted; a second instance naming the choice this explicitly is the one to
+watch for.
+
 *What I think it means.* The gap is a fact about the method, not about the
 practice. The testimony describes content designers at a large technology
 employer pivoting into building lint rules and YAML to catch content issues at

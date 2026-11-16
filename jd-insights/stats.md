@@ -3,23 +3,23 @@
 
 # Stats
 
-Dataset state: **99 entries**, `meta.lastUpdated` 2026-11-16. Generated 2026-11-16.
+Dataset state: **100 entries**, `meta.lastUpdated` 2026-11-16. Generated 2026-11-16.
 
 Every figure here is counted from `docs/data/jobs.json`. If you quote one in something published, quote the entry count with it — these move.
 
 ## Headline
 
-- **99** entries across **89** companies and **15** domains
+- **100** entries across **90** companies and **16** domains
 - Date range: 2026-05-24 to 2026-11-16
 
 ## Responsibility clusters
 
 | | Entries | Share |
 |---|---:|---:|
-| Content systems design | 88 | 89% |
-| Enablement & team upskilling | 77 | 78% |
-| AI tooling & automation | 71 | 72% |
-| AI-generated content governance | 45 | 45% |
+| Content systems design | 89 | 89% |
+| Enablement & team upskilling | 78 | 78% |
+| AI tooling & automation | 72 | 72% |
+| AI-generated content governance | 46 | 46% |
 | Terminology & language governance | 39 | 39% |
 | Taxonomy & information architecture | 33 | 33% |
 | Localization & internationalization | 19 | 19% |
@@ -29,17 +29,17 @@ Every figure here is counted from `docs/data/jobs.json`. If you quote one in som
 
 | | Entries | Share |
 |---|---:|---:|
-| AI fluency expected | 69 | 70% |
-| Governance emphasized | 39 | 39% |
-| Enabler, not bottleneck | 35 | 35% |
-| Central standards function | 33 | 33% |
-| Model behavior design | 32 | 32% |
+| AI fluency expected | 70 | 70% |
+| Governance emphasized | 40 | 40% |
+| Enabler, not bottleneck | 36 | 36% |
+| Central standards function | 34 | 34% |
+| Model behavior design | 33 | 33% |
 | Content systems for marketers | 14 | 14% |
-| Language as infrastructure | 12 | 12% |
-| Evaluation infrastructure | 12 | 12% |
+| Language as infrastructure | 13 | 13% |
+| Evaluation infrastructure | 13 | 13% |
+| Human in the loop | 10 | 10% |
 | Accessibility as structural constraint | 9 | 9% |
 | Structured for agent retrieval | 9 | 9% |
-| Human in the loop | 9 | 9% |
 | GEO & SEO | 8 | 8% |
 | Structured data | 7 | 7% |
 | Classification for ML | 6 | 6% |
@@ -49,28 +49,28 @@ Every figure here is counted from `docs/data/jobs.json`. If you quote one in som
 
 ## Compensation
 
-- Stated in **62 of 99** entries (53 USD, 4 CAD, 4 GBP, 1 EUR)
+- Stated in **63 of 100** entries (54 USD, 4 CAD, 4 GBP, 1 EUR)
 - Full spread: **$62,120** to **$710,000**
 - USD medians: **$144,000** low, **$190,000** high
-- `covers`: 37 base, 23 unstated, 2 total
+- `covers`: 38 base, 23 unstated, 2 total
 
 ## Compensation by signal
 
-USD entries only (53 of 62 stated ranges). Signals carried by at least 3 of them.
+USD entries only (54 of 63 stated ranges). Signals carried by at least 3 of them.
 
 | Signal | n | Median low | Median high | vs. all USD |
 |---|---:|---:|---:|---:|
-| **All USD entries** | 53 | $144,000 | $190,000 | — |
-| Language as infrastructure | 7 | $153,000 | $250,000 | +$60,000 |
-| Enabler, not bottleneck | 17 | $147,000 | $249,500 | +$59,500 |
-| Evaluation infrastructure | 8 | $166,500 | $232,000 | +$42,000 |
+| **All USD entries** | 54 | $144,000 | $190,000 | — |
+| Language as infrastructure | 8 | $149,650 | $233,000 | +$43,000 |
+| Enabler, not bottleneck | 18 | $146,650 | $232,750 | +$42,750 |
+| Evaluation infrastructure | 9 | $160,000 | $230,000 | +$40,000 |
 | Content work under new titles | 4 | $154,100 | $213,350 | +$23,350 |
-| Model behavior design | 18 | $156,500 | $212,125 | +$22,125 |
-| AI fluency expected | 33 | $146,300 | $209,000 | +$19,000 |
-| Central standards function | 20 | $145,700 | $203,000 | +$13,000 |
-| Human in the loop | 3 | $160,000 | $200,000 | +$10,000 |
-| Governance emphasized | 24 | $160,000 | $195,000 | +$5,000 |
+| Model behavior design | 19 | $153,000 | $209,000 | +$19,000 |
+| AI fluency expected | 34 | $145,700 | $204,500 | +$14,500 |
+| Governance emphasized | 25 | $160,000 | $190,000 | — |
+| Central standards function | 21 | $145,100 | $190,000 | — |
 | Accessibility as structural constraint | 6 | $152,550 | $189,300 | −$700 |
+| Human in the loop | 4 | $148,000 | $180,000 | −$10,000 |
 | Content systems for marketers | 8 | $118,750 | $173,000 | −$17,000 |
 | Structured for agent retrieval | 5 | $140,000 | $160,000 | −$30,000 |
 | GEO & SEO | 7 | $110,000 | $157,800 | −$32,200 |
@@ -80,15 +80,15 @@ Read the n column before quoting any of these. A median over fewer than roughly 
 
 ## Title vocabulary
 
-Words appearing in 3 or more of the 99 stored titles. Counted from `title`, which is stored verbatim — so this reflects what employers wrote, not what the site renders.
+Words appearing in 3 or more of the 100 stored titles. Counted from `title`, which is stored verbatim — so this reflects what employers wrote, not what the site renders.
 
 | Word | Titles | Share |
 |---|---:|---:|
-| Content | 67 | 68% |
-| Designer | 45 | 45% |
-| Senior | 24 | 24% |
+| Content | 68 | 68% |
+| Designer | 46 | 46% |
+| Senior | 25 | 25% |
 | UX | 21 | 21% |
-| AI | 20 | 20% |
+| AI | 21 | 21% |
 | Staff | 18 | 18% |
 | Writer | 13 | 13% |
 | Systems | 12 | 12% |
@@ -99,8 +99,8 @@ Words appearing in 3 or more of the 99 stored titles. Counted from `title`, whic
 | Strategist | 8 | 8% |
 | Product | 7 | 7% |
 | Conversation | 7 | 7% |
+| Conversational | 6 | 6% |
 | Manager | 5 | 5% |
-| Conversational | 5 | 5% |
 | Language | 4 | 4% |
 | Experience | 4 | 4% |
 | Principal | 4 | 4% |
@@ -127,10 +127,11 @@ Words appearing in 3 or more of the 99 stored titles. Counted from `title`, whic
 | Logistics | 1 | Relay |
 | Travel | 1 | Booking.com |
 | Consumer Goods | 1 | Red Bull |
+| AdTech | 1 | Ibotta |
 
 ## Stated org placement
 
-Recorded in `jd-source` front matter. **78 of 99** postings say where the role sits; the rest do not, which is itself a fact about the posting.
+Recorded in `jd-source` front matter. **79 of 100** postings say where the role sits; the rest do not, which is itself a fact about the posting.
 
 | Company | Placement as stated |
 |---|---|
@@ -170,6 +171,7 @@ Recorded in `jd-source` front matter. **78 of 99** postings say where the role s
 | Harvey | Design |
 | HelloFresh | Category: Software Engineering |
 | HoneyBook | Knowledge & Instructional Content team (KIC), within Member Care / Member Experience |
+| Ibotta | Technical - Product |
 | Insurify | Not stated as a department; partners with the Editor in Chief and editorial leadership |
 | Intercept | Content department |
 | Intuit | QuickBooks Digital Experiences team, within Design & User Experience |
@@ -215,7 +217,7 @@ Recorded in `jd-source` front matter. **78 of 99** postings say where the role s
 
 ## Stated posting dates
 
-**14 of 99** postings state a date. Where both exist, the gap to `dateAdded` varies enough that one is not a proxy for the other.
+**14 of 100** postings state a date. Where both exist, the gap to `dateAdded` varies enough that one is not a proxy for the other.
 
 | Company | Posted | Added |
 |---|---|---|

@@ -296,6 +296,7 @@ The `domain` field describes the broad industry or sector the company operates i
 
 | Value | Example companies |
 |---|---|
+| `AdTech` | Ibotta |
 | `Agency` | Phase2, Accenture |
 | `Automotive` | GM |
 | `Big Tech` | Apple, Google, Meta, LinkedIn, OpenAI |
