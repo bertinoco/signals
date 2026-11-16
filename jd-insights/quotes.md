@@ -3,7 +3,7 @@
 
 # Quotes
 
-Every stored quote, verbatim from the posting. **97 of 98** entries carry one.
+Every stored quote, verbatim from the posting. **98 of 99** entries carry one.
 
 These are the lines that anchor each entry's cluster and signal assignments, so they are the strongest citable evidence in the dataset. Each is checked against its `jd-source` archive before commit.
 
@@ -408,6 +408,12 @@ These are the lines that anchor each entry's cluster and signal assignments, so 
 > Establish the conventions, systems, libraries, style guides, tools and AI skills that Relay relies on to ensure consistency of language as we scale and diversify our product experiences.
 
 `relay-senior-content-designer` · added 2026-08-28
+
+### Render — Senior Content Engineer
+
+> You'll ship focused, technically grounded pieces that help them answer developer questions and cite Render: use-case articles, stack-specific guides, comparisons, and docs.
+
+`render-senior-content-engineer` · added 2026-11-16
 
 ### Robinhood — Senior Content Designer
 
