@@ -3,7 +3,7 @@
     "title": "BCO Content Skills Tracker",
     "description": "A curated skills tracker for the content design community.",
     "lastUpdated": "2026-11-16",
-    "totalEntries": 98
+    "totalEntries": 99
   },
   "entries": [
     {
@@ -2891,6 +2891,37 @@
       "sourceUrl": null,
       "dateAdded": "2026-11-16",
       "quote": "Drive content design leadership by shaping and evolving iCapital design system writing style guides, reusable patterns, and governance frameworks to ensure consistent, multi-language and multi-currency experiences across platforms."
+    },
+    {
+      "id": "render-senior-content-engineer",
+      "company": "Render",
+      "title": "Senior Content Engineer",
+      "domain": "SaaS",
+      "engagement": "Full time",
+      "location": "Remote (US)",
+      "remote": true,
+      "coreFrame": "Owns the strategy and the system behind Render's developer-facing content, aimed at the coding agents and LLMs developers consult when choosing where to deploy. Runs content gap analysis using AEO benchmarks, citation tracking, and AI agent traffic data to find where Render is missing, wrong, or out-cited in LLM answers, and turns that analysis into a prioritized backlog of articles, guides, comparisons, and docs. Builds and improves Render's AI-assisted content pipeline, built on Render Workflows, that researches, drafts, fact-checks, and assists in publishing technical content, testing pipeline changes with evals to keep the system reliable as output grows. Owns the review loop to make expert review faster and cheaper while tracking factual accuracy, runs a refresh cycle so existing content stays accurate as the product changes, manages external content partners, and partners with docs owners to expand docs coverage where it drives citations. Defines and reports the metrics that show whether content moves Render's visibility and signups.",
+      "clusters": [
+        "ai-tooling",
+        "ai-content-governance"
+      ],
+      "signals": [
+        "geo-seo",
+        "ai-native-expectation",
+        "content-marketing-adjacent",
+        "eval-infrastructure"
+      ],
+      "compRange": {
+        "min": 150000,
+        "max": 230000,
+        "currency": "USD",
+        "covers": null,
+        "scope": null,
+        "extras": "equity"
+      },
+      "sourceUrl": null,
+      "dateAdded": "2026-11-16",
+      "quote": "You'll ship focused, technically grounded pieces that help them answer developer questions and cite Render: use-case articles, stack-specific guides, comparisons, and docs."
     }
   ],
   "clusters": {

@@ -346,6 +346,12 @@ Retained deliberately in `jd-source`, since they are facts about the posting:
   $160,000 - $200,000 USD." "Wage Disclosure" reads as a template field label
   that surfaced inline rather than a heading the posting intended to render
   as one.
+- **Render**'s "Department" chrome field reads "MarketingMarketingDeveloper
+  Experience" — a multi-select field rendering with "Marketing" duplicated
+  before "Developer Experience," rather than a single value. Normalized in
+  `jd-source/render-senior-content-engineer.md`'s `orgPlacement` to the two
+  distinct values it actually names, "Marketing / Developer Experience";
+  the archive itself keeps the chrome's doubled text verbatim.
 
 Six of the stored quotes needed a character corrected to match their source —
 five apostrophes and one hyphen. None was visible on screen.
