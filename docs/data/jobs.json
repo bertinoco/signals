@@ -2,8 +2,8 @@
   "meta": {
     "title": "BCO Content Skills Tracker",
     "description": "A curated skills tracker for the content design community.",
-    "lastUpdated": "2026-11-16",
-    "totalEntries": 100
+    "lastUpdated": "2026-11-20",
+    "totalEntries": 101
   },
   "entries": [
     {
@@ -2959,6 +2959,41 @@
       "sourceUrl": null,
       "dateAdded": "2026-11-16",
       "quote": "Build the content and AI experience layer of our design system: voice, patterns, error and empty states, and the language of system reasoning, structured so both designers and agents can consume it."
+    },
+    {
+      "id": "autodesk-principal-content-designer-assistant",
+      "company": "Autodesk",
+      "title": "Principal Content Designer, Autodesk Assistant",
+      "domain": "SaaS",
+      "engagement": "Not specified",
+      "location": "Toronto, Ontario",
+      "remote": null,
+      "coreFrame": "Defines the help content strategy for education and knowledge across Autodesk Assistant and related agentic experiences within Experience Foundations for AEC, designing content that helps customers learn, orient, troubleshoot, recover, and build expertise in the context of their work. Establishes content models and patterns so authoritative knowledge can be structured and reused across products and AI experiences, and partners with Product and Engineering to shape how trusted knowledge supports retrieval, grounding, and customer-facing guidance. Designs patterns for AI-mediated learning, including contextual education, progressive guidance, explanations, and suggested next steps, and defines quality standards and evaluation approaches for help, learning, and AI-delivered knowledge. Creates scalable frameworks that let product and domain teams contribute knowledge while maintaining quality and consistency, and identifies fragmentation and gaps across help and knowledge experiences to improve findability and reuse.",
+      "clusters": [
+        "content-systems-design",
+        "taxonomy",
+        "enablement",
+        "ai-content-governance"
+      ],
+      "signals": [
+        "model-behavior-design",
+        "agent-retrieval",
+        "central-standards-function",
+        "enabler-not-bottleneck",
+        "ai-native-expectation",
+        "governance-as-value-prop"
+      ],
+      "compRange": {
+        "min": 116000,
+        "max": 170500,
+        "currency": "CAD",
+        "covers": "base",
+        "scope": "Canada",
+        "extras": "bonus + equity"
+      },
+      "sourceUrl": null,
+      "dateAdded": "2026-11-20",
+      "quote": "Partner with Product and Engineering to shape how trusted knowledge supports retrieval, grounding, and customer-facing guidance."
     }
   ],
   "clusters": {

@@ -3,7 +3,7 @@
 
 # Quotes
 
-Every stored quote, verbatim from the posting. **99 of 100** entries carry one.
+Every stored quote, verbatim from the posting. **100 of 101** entries carry one.
 
 These are the lines that anchor each entry's cluster and signal assignments, so they are the strongest citable evidence in the dataset. Each is checked against its `jd-source` archive before commit.
 
@@ -84,6 +84,12 @@ These are the lines that anchor each entry's cluster and signal assignments, so 
 > Develop scalable frameworks, governance models, and operating practices that help teams deliver high-quality, consistent experiences across products.
 
 `autodesk-senior-principal-content-strategist` · added 2026-09-25
+
+### Autodesk — Principal Content Designer, Autodesk Assistant
+
+> Partner with Product and Engineering to shape how trusted knowledge supports retrieval, grounding, and customer-facing guidance.
+
+`autodesk-principal-content-designer-assistant` · added 2026-11-20
 
 ### Bank of America — Experience Design (XD) II, Content Design
 
