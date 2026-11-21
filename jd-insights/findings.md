@@ -689,6 +689,45 @@ trigger to revisit here is a second posting that, like Wise's, names the
 Model-Designer-or-transitioning-Content-Designer path explicitly rather than
 implying it through guild placement alone.
 
+**A non-content "AI Governance Director" discipline is claiming adjacent
+territory to content design, without content design skills.** Momentive
+Software's Director, AI Governance & Enterprise Solutions (excluded) owns a
+company-wide "Context Library," defines content/taxonomy standards for it,
+and sets governance standards other teams must follow — vocabulary that
+overlaps heavily with this dataset's `central-standards-function` and
+`governance-as-value-prop` signals. But its qualifications are entirely
+CS/engineering (a Computer Science or Engineering degree, LLM APIs,
+orchestration frameworks); no content-design skill, writing craft, or
+portfolio is asked for anywhere.
+
+This is a third data point in the Fin/Wise thread above, on the excluded
+side: like Fin, Momentive reads partly as the specification/governance side
+of the deterministic/generative split (define standards, review other
+agents' output, set the technical bar) without ever naming a content
+discipline — but unlike Fin, it is not literal-text-clean: "content" appears
+three times, in the repository-as-data sense, not idiomatically. Worth
+recording as a distinct shape of exclusion rather than folding into Fin's: a
+posting can fail the content-discipline test by using content-shaped
+vocabulary for a different object (a knowledge substrate built for machines,
+not people), not only by omitting the vocabulary outright.
+
+Read together with the deterministic/generative finding, Momentive is
+evidence for where that split's spec-authoring side goes when it detaches
+fully from a content organization: not into a content-adjacent title at all,
+but into a freestanding enterprise AI-governance function, reporting to
+engineering, hiring on engineering credentials alone. Required criterion 1
+and the "Note on technical/engineering roles in service of language" are
+built to draw this line on the artifact-touching test, not on vocabulary,
+and they drew it correctly here — the Director sets standards for and
+reviews other teams' agents but never personally authors the prompts or
+system instructions that constitute a product's behavior.
+
+*Trigger to revisit: a posting in this same "AI Governance"/"enterprise AI
+standards" title family that, like Wise, explicitly names content-design
+background as an entry path — or one whose context-library/standards work
+includes personally authoring the prompts or system instructions an agent
+runs, rather than only reviewing and gatekeeping other teams' agents.*
+
 **`content-marketing-adjacent` description versus use.** The description reads
 "systems and architecture language is being used to describe what is
 fundamentally content marketing work… the core responsibilities haven't
