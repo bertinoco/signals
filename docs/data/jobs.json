@@ -2,8 +2,8 @@
   "meta": {
     "title": "BCO Content Skills Tracker",
     "description": "A curated skills tracker for the content design community.",
-    "lastUpdated": "2026-11-20",
-    "totalEntries": 101
+    "lastUpdated": "2026-11-23",
+    "totalEntries": 102
   },
   "entries": [
     {
@@ -2994,6 +2994,37 @@
       "sourceUrl": null,
       "dateAdded": "2026-11-20",
       "quote": "Partner with Product and Engineering to shape how trusted knowledge supports retrieval, grounding, and customer-facing guidance."
+    },
+    {
+      "id": "virta-health-senior-content-designer",
+      "company": "Virta Health",
+      "title": "Senior Content Designer",
+      "domain": "Healthcare",
+      "engagement": "Full-time",
+      "location": "Remote",
+      "remote": true,
+      "coreFrame": "Owns content strategy and execution for assigned product experiences, creating content across onboarding, product features, in-app messaging, articles, educational resources, and interactive experiences to help members through their health journey. Contributes to scalable content structures, taxonomies, metadata, and labeling systems, and partners with Product and Engineering to structure content in Sanity, Virta's CMS. Designs the voice, tone, and conversational experience for assigned AI-powered product features, develops and refines LLM prompts, instructions, and conversational frameworks that guide AI-generated responses, and develops and applies evaluation criteria to improve AI-generated content for clarity, usefulness, empathy, and brand alignment. Collaborates with Clinical and Care Delivery teams, who provide authoritative health guidance and own clinical accuracy.",
+      "clusters": [
+        "content-systems-design",
+        "taxonomy",
+        "ai-content-governance",
+        "ai-tooling"
+      ],
+      "signals": [
+        "model-behavior-design",
+        "ai-native-expectation"
+      ],
+      "compRange": {
+        "min": 111750,
+        "max": 144250,
+        "currency": "USD",
+        "covers": null,
+        "scope": null,
+        "extras": "equity"
+      },
+      "sourceUrl": null,
+      "dateAdded": "2026-11-23",
+      "quote": "Develop and refine LLM prompts, instructions, and conversational frameworks that guide AI-generated responses."
     }
   ],
   "clusters": {

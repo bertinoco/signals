@@ -3,25 +3,25 @@
 
 # Stats
 
-Dataset state: **101 entries**, `meta.lastUpdated` 2026-11-20. Generated 2026-11-20.
+Dataset state: **102 entries**, `meta.lastUpdated` 2026-11-23. Generated 2026-11-23.
 
 Every figure here is counted from `docs/data/jobs.json`. If you quote one in something published, quote the entry count with it — these move.
 
 ## Headline
 
-- **101** entries across **90** companies and **16** domains
-- Date range: 2026-05-24 to 2026-11-20
+- **102** entries across **91** companies and **16** domains
+- Date range: 2026-05-24 to 2026-11-23
 
 ## Responsibility clusters
 
 | | Entries | Share |
 |---|---:|---:|
-| Content systems design | 90 | 89% |
-| Enablement & team upskilling | 79 | 78% |
-| AI tooling & automation | 72 | 71% |
-| AI-generated content governance | 47 | 47% |
-| Terminology & language governance | 39 | 39% |
-| Taxonomy & information architecture | 34 | 34% |
+| Content systems design | 91 | 89% |
+| Enablement & team upskilling | 79 | 77% |
+| AI tooling & automation | 73 | 72% |
+| AI-generated content governance | 48 | 47% |
+| Terminology & language governance | 39 | 38% |
+| Taxonomy & information architecture | 35 | 34% |
 | Localization & internationalization | 19 | 19% |
 | Technical writing & documentation | 19 | 19% |
 
@@ -29,11 +29,11 @@ Every figure here is counted from `docs/data/jobs.json`. If you quote one in som
 
 | | Entries | Share |
 |---|---:|---:|
-| AI fluency expected | 71 | 70% |
-| Governance emphasized | 41 | 41% |
-| Enabler, not bottleneck | 37 | 37% |
-| Central standards function | 35 | 35% |
-| Model behavior design | 34 | 34% |
+| AI fluency expected | 72 | 71% |
+| Governance emphasized | 41 | 40% |
+| Enabler, not bottleneck | 37 | 36% |
+| Central standards function | 35 | 34% |
+| Model behavior design | 35 | 34% |
 | Content systems for marketers | 14 | 14% |
 | Language as infrastructure | 13 | 13% |
 | Evaluation infrastructure | 13 | 13% |
@@ -49,24 +49,24 @@ Every figure here is counted from `docs/data/jobs.json`. If you quote one in som
 
 ## Compensation
 
-- Stated in **64 of 101** entries (54 USD, 5 CAD, 4 GBP, 1 EUR)
+- Stated in **65 of 102** entries (55 USD, 5 CAD, 4 GBP, 1 EUR)
 - Full spread: **$62,120** to **$710,000**
 - USD medians: **$144,000** low, **$190,000** high
-- `covers`: 39 base, 23 unstated, 2 total
+- `covers`: 39 base, 24 unstated, 2 total
 
 ## Compensation by signal
 
-USD entries only (54 of 64 stated ranges). Signals carried by at least 3 of them.
+USD entries only (55 of 65 stated ranges). Signals carried by at least 3 of them.
 
 | Signal | n | Median low | Median high | vs. all USD |
 |---|---:|---:|---:|---:|
-| **All USD entries** | 54 | $144,000 | $190,000 | — |
+| **All USD entries** | 55 | $144,000 | $190,000 | — |
 | Language as infrastructure | 8 | $149,650 | $233,000 | +$43,000 |
 | Enabler, not bottleneck | 18 | $146,650 | $232,750 | +$42,750 |
 | Evaluation infrastructure | 9 | $160,000 | $230,000 | +$40,000 |
 | Content work under new titles | 4 | $154,100 | $213,350 | +$23,350 |
-| Model behavior design | 19 | $153,000 | $209,000 | +$19,000 |
-| AI fluency expected | 34 | $145,700 | $204,500 | +$14,500 |
+| Model behavior design | 20 | $148,500 | $209,000 | +$19,000 |
+| AI fluency expected | 35 | $145,100 | $200,000 | +$10,000 |
 | Governance emphasized | 25 | $160,000 | $190,000 | — |
 | Central standards function | 21 | $145,100 | $190,000 | — |
 | Accessibility as structural constraint | 6 | $152,550 | $189,300 | −$700 |
@@ -80,13 +80,13 @@ Read the n column before quoting any of these. A median over fewer than roughly 
 
 ## Title vocabulary
 
-Words appearing in 3 or more of the 101 stored titles. Counted from `title`, which is stored verbatim — so this reflects what employers wrote, not what the site renders.
+Words appearing in 3 or more of the 102 stored titles. Counted from `title`, which is stored verbatim — so this reflects what employers wrote, not what the site renders.
 
 | Word | Titles | Share |
 |---|---:|---:|
-| Content | 69 | 68% |
-| Designer | 47 | 47% |
-| Senior | 25 | 25% |
+| Content | 70 | 69% |
+| Designer | 48 | 47% |
+| Senior | 26 | 25% |
 | UX | 21 | 21% |
 | AI | 21 | 21% |
 | Staff | 18 | 18% |
@@ -115,8 +115,8 @@ Words appearing in 3 or more of the 101 stored titles. Counted from `title`, whi
 | Finance | 24 | Ally Financial, American Express, Bank of America, Capital One, Chime, Citizens, Cleo, Ethos, Insurify, Intuit, JPMorgan Chase, Nedbank, Robinhood, Rocket, Sanna, Sequence, Taxfix, Trustly, Wealthsimple, Wise, ZEN.COM, iCapital |
 | SaaS | 23 | Adobe, Autodesk, Bolt.new, CoLab, Deepgram, Docebo, Engrain, Figma, Fin, Glean, HoneyBook, Notion, Personio, Render, Salesforce, Slang AI, Smartly, Soda, Splunk, UKG, Wix, Zoom |
 | Big Tech | 15 | Alibaba, Amazon, Anthropic, Apple, DeepMind, Google, LinkedIn, Meta, OpenAI, Perplexity |
+| Healthcare | 10 | Atria, Evinova, Felix, Function Health, Maven Clinic, Natural Cycles, Roche, Teladoc Health, UnitedHealth Group, Virta Health |
 | E-commerce | 9 | Airbnb, Coupang, Deliveroo, Etsy, HelloFresh, The Ride Platform, Vinted, Wellhub |
-| Healthcare | 9 | Atria, Evinova, Felix, Function Health, Maven Clinic, Natural Cycles, Roche, Teladoc Health, UnitedHealth Group |
 | Agency | 5 | Accenture, Huge, Intercept, Phase2, WPP Enterprise Solutions |
 | Media | 5 | Netflix, Spotify, Wrtn Technologies |
 | Retail | 2 | Adidas, Gap Inc. |
@@ -131,7 +131,7 @@ Words appearing in 3 or more of the 101 stored titles. Counted from `title`, whi
 
 ## Stated org placement
 
-Recorded in `jd-source` front matter. **79 of 101** postings say where the role sits; the rest do not, which is itself a fact about the posting.
+Recorded in `jd-source` front matter. **80 of 102** postings say where the role sits; the rest do not, which is itself a fact about the posting.
 
 | Company | Placement as stated |
 |---|---|
@@ -206,6 +206,7 @@ Recorded in `jd-source` front matter. **79 of 101** postings say where the role 
 | UKG | Conversation Designer on the AI Design Systems team |
 | Vinted | Content Design team, part of Design & Research |
 | Vinted | Supply domain, within Product Management — team described as a cross-functional group of taxonomists, decision scientists, and product managers |
+| Virta Health | Department: Clinical Operations |
 | WPP Enterprise Solutions | Design Team, within WPP Enterprise Solutions (client-embedded, supported by VML) |
 | Wealthsimple | Department: Product / Product Design |
 | Wellhub | Consumer Digital Experience team |
@@ -217,7 +218,7 @@ Recorded in `jd-source` front matter. **79 of 101** postings say where the role 
 
 ## Stated posting dates
 
-**14 of 101** postings state a date. Where both exist, the gap to `dateAdded` varies enough that one is not a proxy for the other.
+**14 of 102** postings state a date. Where both exist, the gap to `dateAdded` varies enough that one is not a proxy for the other.
 
 | Company | Posted | Added |
 |---|---|---|
