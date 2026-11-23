@@ -3,7 +3,7 @@
 
 # Quotes
 
-Every stored quote, verbatim from the posting. **100 of 101** entries carry one.
+Every stored quote, verbatim from the posting. **101 of 102** entries carry one.
 
 These are the lines that anchor each entry's cluster and signal assignments, so they are the strongest citable evidence in the dataset. Each is checked against its `jd-source` archive before commit.
 
@@ -552,6 +552,12 @@ These are the lines that anchor each entry's cluster and signal assignments, so 
 > Design, implement, and maintain ontologies and data structures that support our member-facing content.
 
 `vinted-taxonomist-supply` · added 2026-09-06
+
+### Virta Health — Senior Content Designer
+
+> Develop and refine LLM prompts, instructions, and conversational frameworks that guide AI-generated responses.
+
+`virta-health-senior-content-designer` · added 2026-11-23
 
 ### Wealthsimple — Staff Content Designer, Investing
 
