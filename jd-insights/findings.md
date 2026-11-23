@@ -728,6 +728,29 @@ background as an entry path — or one whose context-library/standards work
 includes personally authoring the prompts or system instructions an agent
 runs, rather than only reviewing and gatekeeping other teams' agents.*
 
+**Clinical/compliance team as accuracy gatekeeper, distinct from content's
+own review — 2 instances, domain-clustered.** Virta Health's Senior Content
+Designer states "Collaborate with Clinical and Care Delivery teams, who
+provide authoritative health guidance and own clinical accuracy." Maven
+Clinic's Conversational AI & UX/Product Copywriter draws the same line:
+"recommend patterns for Engineering and Clinical to implement and approve"
+and "Craft language that is empowering and action-oriented, balancing
+clinical accuracy and compliance with a human, non-alarming Maven-branded
+tone" — the content role balances around an accuracy standard owned
+elsewhere, rather than being the accuracy checkpoint itself.
+
+Distinct from `human-in-the-loop` (above), whose holders describe a person
+reviewing AI output as the correctness check; here that check sits with a
+separate clinical function the content role defers to, while the content
+role's own judgment stays scoped to tone, voice, and language. Two
+instances, both Healthcare — domain-clustered per Step 4, not yet
+cross-industry evidence.
+
+*Trigger to revisit: a differently-domained instance (legal, financial-
+advice, or another regulated-content domain) describing the same split
+between a language owner and a separate compliance/subject-matter authority
+over accuracy.*
+
 **`content-marketing-adjacent` description versus use.** The description reads
 "systems and architecture language is being used to describe what is
 fundamentally content marketing work… the core responsibilities haven't
